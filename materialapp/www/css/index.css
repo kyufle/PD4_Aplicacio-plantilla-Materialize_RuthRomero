@@ -150,7 +150,7 @@ ul#slide-out.sidenav{
     background-color: white;
 }
 .sidenav li > a:not(.btn):not(.btn-flat):not(.btn-large):not(.btn-floating){
-    color: rgb(2, 2, 90);
+    color: rgb(2, 2, 90) !important;
 }
 
 div.nav-wrapper a{
